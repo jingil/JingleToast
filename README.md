@@ -80,5 +80,6 @@ Stay tuned on https://jingil.medium.com/.
 
 
 Enjoy :)
-[![](https://jitpack.io/v/jingil/JingleToast.svg)](https://jitpack.io/#jingil/JingleToast)
+
+![](https://jitpack.io/v/jingil/JingleToast.svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jingil.JingleToast)
