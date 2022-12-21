@@ -48,8 +48,10 @@ makeToast(Context context, String message, int duration, int style, int gravity)
 or
 
 makeToast(Context context, String message, int duration, int style, int gravity, String backgroundcolor)
-Examples:
 
+
+Examples:
+```
 makeToast(
                 this@MainActivity,
                 "This is a sample success toast!",
@@ -57,7 +59,9 @@ makeToast(
                 JingleToast.SUCCESS,
                 JingleToast.TOP
             ).show()
+ ```
  
+ ```
  makeToast(
                 this@MainActivity,
                 "This is a sample failure toast!",
@@ -66,12 +70,14 @@ makeToast(
                 JingleToast.BOTTOM
             ).show()
      
-
+```
 
 
 This project is licensed under Apache License 2.0. Commercial use, Modification, Distribution, Private use are permitted.
 
-Please feel free to contact me on jingilandroid@gmail.com if any help needed.
+Please feel free to contact me on https://jingil.medium.com/ if any help needed.
+
+
 
 Enjoy :)
 
