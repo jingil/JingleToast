@@ -75,7 +75,7 @@ makeToast(
 
 This project is licensed under Apache License 2.0. Commercial use, Modification, Distribution, Private use are permitted.
 
-Please feel free to contact me on https://jingil.medium.com/ if any help needed.
+Stay tuned on https://jingil.medium.com/.
 
 
 
