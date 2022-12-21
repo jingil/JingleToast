@@ -11,7 +11,7 @@ To get this library into your build:
 
 Step 1. Add this repository to your build file
 
-Add it in your root build.gradle at the end of repositories:
+Add it in your root build.gradle/settings.gradle at the end of repositories:
 
 ```
   allprojects {
